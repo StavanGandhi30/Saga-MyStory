@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>189888296022-s87p2imni8bn0tunhircio58h5ljmcjp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.189888296022-s87p2imni8bn0tunhircio58h5ljmcjp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB8pURn1IIgdgbwBMdnv_pX6-a7SKOm8f4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>189888296022</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>StavanGandhi.Saga</string>
+	<key>PROJECT_ID</key>
+	<string>saga-mystory</string>
+	<key>STORAGE_BUCKET</key>
+	<string>saga-mystory.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:189888296022:ios:24f7c995d16e95ac7eb7f7</string>
+</dict>
+</plist>

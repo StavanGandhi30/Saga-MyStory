@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>816ab591c08f8c2fb8eb8cb79c5cc492</string>
+	<key>GADApplicationIdentifier</key>
+	<string>ca-app-pub-8343617816245846~1325005322</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>saga.mystory.new@gmail.com</key>
+	<string>oniqckerrngmgusg</string>
+	<key>saga.mystory.user1@gmail.com</key>
+	<string>drubypnhojapmaby</string>
+	<key>saga.mystory.user2@gmail.com</key>
+	<string>wiauyxrommyiyqws</string>
+	<key>saga.mystory.user3@gmail.com</key>
+	<string>ntrxtklypcrwfevt</string>
+</dict>
+</plist>
